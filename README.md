@@ -62,4 +62,5 @@ Manipulação de strings
 Trabalhar com entradas de usuário
 
 💡 Objetivo do Projeto:
+
 Criar um ambiente de aprendizado prático, onde iniciantes podem testar soluções, melhorar lógica e explorar Python de forma divertida. Esse projeto também serve como base para contribuições open source: você pode adicionar novos exercícios ou melhorias futuramente. 🚀
